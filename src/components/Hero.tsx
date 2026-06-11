@@ -1,25 +1,26 @@
 
 export default function Hero() {
 	return (
-		<section className="min-h-screen flex flex-col justify-center items-center">
+		<section className="min-h-screen flex flex-col items-center justify-center">
 
 			{/* Main Heading */}
 			<h1 className="text-5xl font-bold">
-				Hi, I am Boris
+				Boris Ayissi
 			</h1>
 
-			{/* Short intro */}
+			{/* Professional positioning */}
 			<p className="mt-4 text-gray-500">
 				Full-Stack Developer building modern web apps.
 			</p>
 
 			{/* CTA */}
 			<button className="
-			mt-8
-			px-8py-3
-			rounded-lg
+			mt-6
+			px-6
+			py-3
 			bg-black
-			text-white">
+			text-white
+			rounded-lg">
 				View projects
 			</button>
 
