@@ -24,3 +24,13 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+html{
+    scroll-behavior:smooth;
+}
+
+/* The role of scroll-behavior:smooth;
+   Clicking navbar links now
+   scrolls smoothly instead
+   of jumping.
+*/
