@@ -67,3 +67,5 @@ export default function About() {
 /* flex-wrap
   * Moves skills to the next line on smaller screens 
   */
+
+
